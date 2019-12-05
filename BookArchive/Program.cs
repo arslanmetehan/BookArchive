@@ -10,6 +10,8 @@ namespace BookArchive
 	{
 		static void Main(string[] args)
 		{
+			Console.WriteLine("selam");
+			Console.ReadKey();
 		}
 	}
 }
