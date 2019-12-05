@@ -12,6 +12,8 @@ namespace BookArchive
 		{
 			Console.WriteLine("selam");
 			Console.ReadKey();
+			Console.WriteLine("naber");
+			Console.ReadKey();
 		}
 	}
 }
