@@ -1,2 +1,2 @@
 # BookArchive
-Homework
+.NET Core console app.
